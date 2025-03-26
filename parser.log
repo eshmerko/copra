@@ -1,0 +1,13 @@
+2025-03-26 09:06:02,620 - INFO - Начало синхронизации данных
+2025-03-26 09:06:02,620 - INFO - Начинаем парсинг страницы 1
+2025-03-26 09:07:01,742 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 09:07:03,747 - INFO - Начинаем парсинг страницы 2
+2025-03-26 09:07:12,025 - INFO - Найдено 20 лотов на странице 2
+2025-03-26 09:15:56,664 - WARNING - Прервано пользователем
+2025-03-26 09:15:56,668 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042692b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,669 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1042691f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,669 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104269340>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,718 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10294df10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,718 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10294e3c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,719 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10294e600>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/d4ab27518ae833f4de7307a9c45f9148
+2025-03-26 09:15:56,719 - INFO - Браузер закрыт
