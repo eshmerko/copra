@@ -1,0 +1,1523 @@
+2025-03-26 10:10:29,983 - INFO - Начало синхронизации данных
+2025-03-26 10:10:29,983 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:10:32,348 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:11:37,925 - WARNING - Прервано пользователем
+2025-03-26 10:11:42,038 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E50A098050>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/648be1225d6616f97c968f266e0596b6
+2025-03-26 10:11:46,109 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E50A098190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/648be1225d6616f97c968f266e0596b6
+2025-03-26 10:11:56,432 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E50691B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/648be1225d6616f97c968f266e0596b6
+2025-03-26 10:12:03,047 - INFO - Начало синхронизации данных
+2025-03-26 10:12:03,047 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:12:05,741 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:12:52,105 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A1528FC]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,132 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,154 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,167 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,187 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,208 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,236 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,264 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,281 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,306 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,333 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,410 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,425 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,555 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,571 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,589 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,642 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,654 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,681 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:52,708 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:12:54,712 - INFO - Начинаем парсинг страницы 2
+2025-03-26 10:12:56,332 - INFO - Найдено 20 лотов на странице 2
+2025-03-26 10:13:10,080 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,095 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,129 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,165 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,192 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,207 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,217 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,229 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,292 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,317 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,365 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,387 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,401 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,421 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,449 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,470 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,491 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,501 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,519 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:10,540 - ERROR - Ошибка обработки лота: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=134.0.6998.178); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A110B98]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A15240C]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1522D6]
+	(No symbol) [0x00007FF63A187E40]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 10:13:12,545 - INFO - Синхронизация завершена. Обработано 0 лотов
+2025-03-26 10:13:18,798 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000241A2CB8050>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/9beabe47719132574fce5b11719ccc75
+2025-03-26 10:13:22,889 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000241A2CB82D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/9beabe47719132574fce5b11719ccc75
+2025-03-26 10:17:49,246 - INFO - Начало синхронизации данных
+2025-03-26 10:17:49,247 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:18:12,116 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 10:18:14,120 - INFO - Начинаем парсинг страницы 2
+2025-03-26 10:18:35,684 - WARNING - Таймаут при загрузке страницы 2
+2025-03-26 10:18:37,696 - INFO - Синхронизация завершена. Обработано 0 лотов
+2025-03-26 10:18:43,951 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E2BC36C190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/08f5cc4fe2581ff442cbca09c029cda7
+2025-03-26 10:18:48,038 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E2BC36C550>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/08f5cc4fe2581ff442cbca09c029cda7
+2025-03-26 10:18:52,116 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E2BC1FEFD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/08f5cc4fe2581ff442cbca09c029cda7
+2025-03-26 10:19:00,256 - INFO - Браузер закрыт
+2025-03-26 10:19:42,445 - INFO - Начало синхронизации данных
+2025-03-26 10:19:42,446 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:19:44,680 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:22:30,914 - WARNING - Прервано пользователем
+2025-03-26 10:22:34,965 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263C3DFC190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/10d8c2026298eca17c25171ad1a205ad
+2025-03-26 10:22:39,014 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263C3DFC410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/10d8c2026298eca17c25171ad1a205ad
+2025-03-26 10:22:51,363 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000263C063B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/10d8c2026298eca17c25171ad1a205ad
+2025-03-26 10:22:58,622 - INFO - Начало синхронизации данных
+2025-03-26 10:22:58,623 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:23:01,514 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:26:33,204 - WARNING - Прервано пользователем
+2025-03-26 10:26:43,529 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FC82F5D450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/e8658f28f00a95c3acabd97a5ca4d20d
+2025-03-26 10:26:47,616 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FC82D5B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/e8658f28f00a95c3acabd97a5ca4d20d
+2025-03-26 10:26:51,702 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FC82D5B230>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/e8658f28f00a95c3acabd97a5ca4d20d
+2025-03-26 10:26:59,887 - INFO - Браузер закрыт
+2025-03-26 10:29:43,870 - INFO - Начало синхронизации данных
+2025-03-26 10:29:43,871 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:29:49,442 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:30:03,643 - WARNING - Прервано пользователем
+2025-03-26 10:30:13,949 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8E3CDD450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/ccefc503c2c5786800088d8c216540e9
+2025-03-26 10:30:18,033 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8E3ADB5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/ccefc503c2c5786800088d8c216540e9
+2025-03-26 10:30:22,087 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B8E3ADB230>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/ccefc503c2c5786800088d8c216540e9
+2025-03-26 10:30:30,203 - INFO - Браузер закрыт
+2025-03-26 10:38:08,680 - INFO - Начало синхронизации данных
+2025-03-26 10:38:08,681 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:38:10,755 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 10:38:47,651 - WARNING - Прервано пользователем
+2025-03-26 10:38:51,738 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA040C190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:38:55,825 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA040C410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:38:59,906 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA029F490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:39:12,288 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA0391490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:39:16,400 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA0269BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:39:20,488 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016DA026A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c57c8a69b8771e3e5068327b4ecd6455
+2025-03-26 10:39:28,663 - INFO - Браузер закрыт
+2025-03-26 10:44:09,819 - INFO - Начало синхронизации данных
+2025-03-26 10:44:09,820 - INFO - Начинаем парсинг страницы 1
+2025-03-26 10:44:21,740 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 10:44:23,744 - INFO - Начинаем парсинг страницы 2
+2025-03-26 10:44:34,896 - WARNING - Таймаут при загрузке страницы 2
+2025-03-26 10:44:36,907 - INFO - Синхронизация завершена. Обработано 0 лотов
+2025-03-26 10:44:43,163 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024417FAC190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/1f2c7399f0617bc288785e1a2173bc26
+2025-03-26 10:44:47,250 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024417FAC550>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/1f2c7399f0617bc288785e1a2173bc26
+2025-03-26 10:44:51,339 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024417E3EFD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/1f2c7399f0617bc288785e1a2173bc26
+2025-03-26 10:44:59,520 - INFO - Браузер закрыт
+2025-03-26 11:05:31,438 - INFO - Начало синхронизации данных
+2025-03-26 11:05:31,439 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:05:34,015 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:06:05,626 - WARNING - Прервано пользователем
+2025-03-26 11:06:09,689 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185166FC190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:13,794 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000185166FC410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:17,895 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001851658F490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:30,272 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018516681490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:34,333 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018516559BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:38,399 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001851655A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/a70f0b596f7cbbe5b0a2620aee0a7a35
+2025-03-26 11:06:46,469 - INFO - Браузер закрыт
+2025-03-26 11:10:59,457 - INFO - Начало синхронизации данных
+2025-03-26 11:10:59,458 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:11:01,449 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:11:21,301 - WARNING - Прервано пользователем
+2025-03-26 11:11:25,393 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C9CC190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:11:29,472 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C9CC410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:11:33,566 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C85F490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:11:45,962 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C9516D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:11:50,031 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C829BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:11:54,132 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001ED6C82A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/0aeaefc6d80098bc3a7f946b64f4ae7a
+2025-03-26 11:12:02,294 - INFO - Браузер закрыт
+2025-03-26 11:20:16,118 - INFO - Начало синхронизации данных
+2025-03-26 11:20:16,118 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:20:28,231 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 11:20:30,236 - INFO - Начинаем парсинг страницы 2
+2025-03-26 11:20:41,257 - WARNING - Таймаут при загрузке страницы 2
+2025-03-26 11:20:43,259 - INFO - Синхронизация завершена. Обработано 0 лотов
+2025-03-26 11:20:49,462 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028966A7C190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/7685351134d91147ebab0126ea27dcde
+2025-03-26 11:21:00,980 - INFO - Начало синхронизации данных
+2025-03-26 11:21:00,980 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:21:03,369 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:21:18,832 - WARNING - Прервано пользователем
+2025-03-26 11:21:22,924 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EF0AC190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:27,019 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EF0AC410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:31,114 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EEF3F490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:43,552 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EF0316D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:47,639 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EEF09BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:51,714 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243EEF0A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d1b831e7f821dfa4b0a6bf18b37f6ace
+2025-03-26 11:21:59,888 - INFO - Браузер закрыт
+2025-03-26 11:22:37,119 - INFO - Начало синхронизации данных
+2025-03-26 11:22:37,120 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:22:40,432 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:23:04,699 - WARNING - Прервано пользователем
+2025-03-26 11:23:08,786 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC72C190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:12,877 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC72C410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:16,969 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC5BF490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:29,350 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC6B16D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:33,442 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC589BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:37,521 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000228DC58A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/34b968176a6d5e4a13e116e17eba3e4a
+2025-03-26 11:23:45,705 - INFO - Браузер закрыт
+2025-03-26 11:32:34,859 - INFO - Начало синхронизации данных
+2025-03-26 11:32:34,860 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:32:36,967 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:33:04,141 - WARNING - Прервано пользователем
+2025-03-26 11:33:14,460 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021FB820D450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/847a18a551a07952efa1c6b008f92de4
+2025-03-26 11:33:18,523 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021FB800B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/847a18a551a07952efa1c6b008f92de4
+2025-03-26 11:33:22,574 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021FB800B230>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/847a18a551a07952efa1c6b008f92de4
+2025-03-26 11:33:30,752 - INFO - Браузер закрыт
+2025-03-26 11:33:40,461 - INFO - Начало синхронизации данных
+2025-03-26 11:33:40,462 - INFO - Начинаем парсинг страницы 1
+2025-03-26 11:33:42,852 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 11:34:33,802 - WARNING - Прервано пользователем
+2025-03-26 11:34:33,807 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/42ab52606816b87bd0a5e86edfef415e
+2025-03-26 11:34:44,123 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015E58BFD450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/42ab52606816b87bd0a5e86edfef415e
+2025-03-26 11:34:48,210 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015E589FB5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/42ab52606816b87bd0a5e86edfef415e
+2025-03-26 11:34:52,311 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015E5C0835C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/42ab52606816b87bd0a5e86edfef415e
+2025-03-26 12:00:20,014 - INFO - Начало синхронизации данных
+2025-03-26 12:00:20,015 - INFO - Начинаем парсинг страницы 1
+2025-03-26 12:00:22,769 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 12:13:59,302 - INFO - Начинаем парсинг страницы 2
+2025-03-26 12:14:01,491 - INFO - Найдено 20 лотов на странице 2
+2025-03-26 12:27:38,402 - INFO - Синхронизация завершена. Обработано 40 лотов
+2025-03-26 12:27:44,699 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BB0810C2D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/76dd8feb161a1df4cf889a20b91f798d
+2025-03-26 12:27:48,770 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BB0810C190>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/76dd8feb161a1df4cf889a20b91f798d
+2025-03-26 12:27:52,865 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BB07FA2FD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/76dd8feb161a1df4cf889a20b91f798d
+2025-03-26 12:28:01,054 - INFO - Браузер закрыт
+2025-03-26 13:15:01,570 - INFO - Начало синхронизации данных
+2025-03-26 13:15:01,571 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:15:04,386 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 13:15:18,487 - ERROR - Ошибка обработки лота: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-03-26 13:15:22,591 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B21DC550>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.114/element
+2025-03-26 13:15:26,676 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B21DC7D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.114/element
+2025-03-26 13:15:30,744 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B20736F0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.114/element
+2025-03-26 13:15:34,819 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.114/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2073950>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:15:38,909 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2161250>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.115/element
+2025-03-26 13:15:42,980 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203A250>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.115/element
+2025-03-26 13:15:47,068 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203A580>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.115/element
+2025-03-26 13:15:51,159 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.115/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203A8B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:15:55,245 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2039E10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.116/element
+2025-03-26 13:15:59,326 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2039BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.116/element
+2025-03-26 13:16:03,434 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B20399D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.116/element
+2025-03-26 13:16:07,501 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.116/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203AAD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:16:11,563 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203AE00>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.117/element
+2025-03-26 13:16:15,663 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B020>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.117/element
+2025-03-26 13:16:19,720 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B240>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.117/element
+2025-03-26 13:16:23,773 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.117/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B460>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:16:27,805 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B790>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.118/element
+2025-03-26 13:16:31,855 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B9B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.118/element
+2025-03-26 13:16:35,887 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203BBD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.118/element
+2025-03-26 13:16:39,935 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.118/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203BDF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:16:43,993 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2210160>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.119/element
+2025-03-26 13:16:48,059 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2210380>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.119/element
+2025-03-26 13:16:52,107 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22105A0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.119/element
+2025-03-26 13:16:56,172 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.119/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22107C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:17:00,289 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2210AF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.120/element
+2025-03-26 13:17:04,320 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2210D10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.120/element
+2025-03-26 13:17:08,354 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2210F30>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.120/element
+2025-03-26 13:17:12,408 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.120/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2211150>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:17:16,498 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2211480>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.121/element
+2025-03-26 13:17:20,606 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22116A0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.121/element
+2025-03-26 13:17:24,705 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22118C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.121/element
+2025-03-26 13:17:28,779 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.121/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2211AE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:17:32,844 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2211E10>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.122/element
+2025-03-26 13:17:36,945 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2212030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.122/element
+2025-03-26 13:17:41,037 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2212250>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.122/element
+2025-03-26 13:17:45,119 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.122/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2212470>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:17:49,199 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22127A0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.123/element
+2025-03-26 13:17:53,243 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22129C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.123/element
+2025-03-26 13:17:57,291 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2212BE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.123/element
+2025-03-26 13:18:01,377 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.123/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2212E00>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:18:05,439 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213130>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.124/element
+2025-03-26 13:18:09,505 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213350>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.124/element
+2025-03-26 13:18:13,606 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213570>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.124/element
+2025-03-26 13:18:17,651 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.124/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213790>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:18:21,752 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213AC0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.125/element
+2025-03-26 13:18:25,828 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203BF00>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.125/element
+2025-03-26 13:18:29,924 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203BCE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.125/element
+2025-03-26 13:18:33,999 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.125/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203BAC0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:18:38,069 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B680>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.126/element
+2025-03-26 13:18:42,145 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B570>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.126/element
+2025-03-26 13:18:46,229 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B350>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.126/element
+2025-03-26 13:18:50,295 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.126/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203B130>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:18:54,391 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203ACF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.127/element
+2025-03-26 13:18:58,467 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203ABE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.127/element
+2025-03-26 13:19:02,547 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203A9C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.127/element
+2025-03-26 13:19:06,638 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.127/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2039AE0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:19:10,727 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B203A8B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.128/element
+2025-03-26 13:19:14,806 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22139B0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.128/element
+2025-03-26 13:19:18,900 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22138A0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.128/element
+2025-03-26 13:19:22,973 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=56552): Max retries exceeded with url: /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.128/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213680>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:19:27,039 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213130>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.129/element
+2025-03-26 13:19:31,087 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B2213020>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4/element/f.2C910CCA2FFD5DC4ACB38866C69E17E9.d.18AC0153AFC47DBA74079AA2E0D9D12B.e.129/element
+2025-03-26 13:19:33,142 - WARNING - Прервано пользователем
+2025-03-26 13:19:37,240 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000243B22129C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/be8035db711b1753aadf72426b975dc4
+2025-03-26 13:19:54,362 - INFO - Начало синхронизации данных
+2025-03-26 13:19:54,363 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:19:56,759 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 13:20:32,684 - WARNING - Прервано пользователем
+2025-03-26 13:20:43,038 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6C374D450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/b9727619dd1e3bff5a3f360c03b1418f
+2025-03-26 13:20:47,114 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6C354B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/b9727619dd1e3bff5a3f360c03b1418f
+2025-03-26 13:20:51,185 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6C354B230>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/b9727619dd1e3bff5a3f360c03b1418f
+2025-03-26 13:20:59,337 - INFO - Браузер закрыт
+2025-03-26 13:26:20,067 - ERROR - Критическая ошибка: 'CopartParser' object has no attribute 'sync_lots'
+2025-03-26 13:28:07,663 - INFO - Начало синхронизации данных
+2025-03-26 13:28:07,663 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:28:19,770 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 13:28:21,775 - INFO - Начинаем парсинг страницы 2
+2025-03-26 13:28:27,349 - ERROR - Критическая ошибка при парсинге: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A0F55A1]
+	(No symbol) [0x00007FF63A0F550C]
+	(No symbol) [0x00007FF63A0F3C65]
+	(No symbol) [0x00007FF63A0F498F]
+	(No symbol) [0x00007FF63A10E5D1]
+	(No symbol) [0x00007FF63A10F0CA]
+	(No symbol) [0x00007FF63A113BCC]
+	(No symbol) [0x00007FF63A113C9F]
+	(No symbol) [0x00007FF63A15F320]
+	(No symbol) [0x00007FF63A15FC9C]
+	(No symbol) [0x00007FF63A1B3627]
+	(No symbol) [0x00007FF63A187C6F]
+	(No symbol) [0x00007FF63A1B02F3]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 13:28:29,358 - INFO - Синхронизация завершена. Обработано 0 лотов
+2025-03-26 13:28:35,557 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F83EB04050>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c4ac70a7ce507350c657b1230005f90f
+2025-03-26 13:28:39,616 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F83EB042D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c4ac70a7ce507350c657b1230005f90f
+2025-03-26 13:28:43,657 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F83E98EFD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/c4ac70a7ce507350c657b1230005f90f
+2025-03-26 13:28:51,832 - INFO - Браузер закрыт
+2025-03-26 13:29:45,648 - INFO - Начало синхронизации данных
+2025-03-26 13:29:45,649 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:29:48,364 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 13:29:58,955 - WARNING - Цена не найдена в резервном селекторе
+2025-03-26 13:30:14,312 - WARNING - Прервано пользователем
+2025-03-26 13:30:18,368 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D761324050>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:22,436 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D7613242D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:26,474 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D7611AF490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:38,894 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D7612997F0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:42,969 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D761179BF0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:47,060 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D76117A030>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/95f117480552ac9c952c46a24f97535d
+2025-03-26 13:30:55,218 - INFO - Браузер закрыт
+2025-03-26 13:36:52,853 - INFO - Начало синхронизации данных
+2025-03-26 13:36:52,854 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:37:04,835 - WARNING - Таймаут при загрузке страницы 1
+2025-03-26 13:37:06,837 - INFO - Начинаем парсинг страницы 2
+2025-03-26 13:37:06,840 - ERROR - Критическая ошибка при парсинге: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63A614C25+3179557]
+	(No symbol) [0x00007FF63A2788A0]
+	(No symbol) [0x00007FF63A1091CA]
+	(No symbol) [0x00007FF63A0F4F85]
+	(No symbol) [0x00007FF63A119F94]
+	(No symbol) [0x00007FF63A18F9DF]
+	(No symbol) [0x00007FF63A1AFBE2]
+	(No symbol) [0x00007FF63A187A03]
+	(No symbol) [0x00007FF63A1506D0]
+	(No symbol) [0x00007FF63A151983]
+	GetHandleVerifier [0x00007FF63A6767CD+3579853]
+	GetHandleVerifier [0x00007FF63A68D1D2+3672530]
+	GetHandleVerifier [0x00007FF63A682153+3627347]
+	GetHandleVerifier [0x00007FF63A3E092A+868650]
+	(No symbol) [0x00007FF63A282FFF]
+	(No symbol) [0x00007FF63A27F4A4]
+	(No symbol) [0x00007FF63A27F646]
+	(No symbol) [0x00007FF63A26EAA9]
+	BaseThreadInitThunk [0x00007FFD39027344+20]
+	RtlUserThreadStart [0x00007FFD3ACA26B1+33]
+
+2025-03-26 13:37:08,300 - WARNING - Прервано пользователем
+2025-03-26 13:37:08,302 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)': /session/4545072a97635a715b5e7dde1fb4c779
+2025-03-26 13:37:18,602 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A576E7D450>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/4545072a97635a715b5e7dde1fb4c779
+2025-03-26 13:37:22,686 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A576C7B5C0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/4545072a97635a715b5e7dde1fb4c779
+2025-03-26 13:37:26,764 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A57A317820>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/4545072a97635a715b5e7dde1fb4c779
+2025-03-26 13:37:34,969 - INFO - Браузер закрыт
+2025-03-26 13:38:12,138 - INFO - Начало синхронизации данных
+2025-03-26 13:38:12,139 - INFO - Начинаем парсинг страницы 1
+2025-03-26 13:38:22,066 - INFO - Найдено 20 лотов на странице 1
+2025-03-26 13:48:02,117 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DBE8550>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.127/element
+2025-03-26 13:48:06,193 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DBE87D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.127/element
+2025-03-26 13:48:10,290 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DA77950>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.127/element
+2025-03-26 13:48:14,377 - ERROR - Ошибка обработки лота: HTTPConnectionPool(host='localhost', port=58027): Max retries exceeded with url: /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.127/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DA77BB0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+2025-03-26 13:48:18,478 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DB61490>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.128/element
+2025-03-26 13:48:22,531 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001185DA3EAD0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/58956c42bab1fab11f14034f33a534d8/element/f.118E6C3846C97E0F8A8E2B2C6858D22C.d.023A32A3FB101E128F2804D45CFF2C21.e.128/element
+2025-03-26 13:48:26,622 - WARNING - Прервано пользователем
